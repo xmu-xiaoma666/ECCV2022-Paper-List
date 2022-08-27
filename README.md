@@ -9,7 +9,7 @@ ECCV2022-Paper-List
 
 | FightingCV公众号 | 小助手微信 （备注【**公司/学校+方向+ID**】）|
 :-------------------------:|:-------------------------:
-<img src='./FightingCVimg/FightingCV.jpg' width='200px'>  |  <img src='./FightingCVimg/xiaozhushou.jpg' width='200px'> 
+<img src='https://github.com/xmu-xiaoma666/External-Attention-pytorch/blob/master/FightingCVimg/FightingCV.jpg' width='200px'>  |  <img src='https://github.com/xmu-xiaoma666/External-Attention-pytorch/blob/master/FightingCVimg/xiaozhushou.jpg' width='200px'> 
 
 - 公众号**每天**都会进行**论文、算法和代码的干货分享**哦~
 
