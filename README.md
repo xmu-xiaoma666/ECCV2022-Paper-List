@@ -1,5 +1,6 @@
+https://github.com/xmu-xiaoma666/External-Attention-pytorch/raw/master/FightingCVimg/LOGO.gif
 # ECCV2022-Paper-List
-ECCV2022-Paper-List
+ECCV2022论文汇总，部分论文的详细解析见**FightingCV公众号**。
 
 
 ## 技术交流 <img title="" src="https://user-images.githubusercontent.com/48054808/157800467-2a9946ad-30d1-49a9-b9db-ba33413d9c90.png" alt="" width="20">
