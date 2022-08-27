@@ -1,4 +1,9 @@
-https://github.com/xmu-xiaoma666/External-Attention-pytorch/raw/master/FightingCVimg/LOGO.gif
+
+
+
+<img src="https://github.com/xmu-xiaoma666/External-Attention-pytorch/raw/master/FightingCVimg/LOGO.gif" height="200" width="400"/>
+
+
 # ECCV2022-Paper-List
 ECCV2022论文汇总，部分论文的详细解析见**FightingCV公众号**。
 
