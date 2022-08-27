@@ -27,6 +27,8 @@ ECCV2022论文汇总，部分论文的详细解析见**FightingCV公众号**。
 - 强烈推荐大家关注[**知乎**](https://www.zhihu.com/people/jason-14-58-38/posts)账号和[**FightingCV公众号**](https://mp.weixin.qq.com/s/m9RiivbbDPdjABsTd6q8FA)，可以快速了解到最新优质的干货资源。
 
 
+
+
 ## 数据集/Dataset
 
 **COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts**
